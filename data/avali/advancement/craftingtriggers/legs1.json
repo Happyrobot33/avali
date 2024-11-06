@@ -1,10 +1,10 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:lantern"
+            "id": "minecraft:piston"
         },
-        "title": "Wargone 9100 8V Anti-Darkness optical implants",
-        "description": "Top of the notch sight, doesn't get any better than this!",
+        "title": "Leg-up V2 3000HP Upanatem",
+        "description": "These bad boys can boost you up into the air, allowing you to have a good boost in gliding! It's not flying, but it'll have to do.",
         "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": false

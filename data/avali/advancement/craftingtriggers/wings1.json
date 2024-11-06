@@ -1,10 +1,12 @@
 {
     "display": {
         "icon": {
-            "id": "minecraft:piston"
+            "id": "minecraft:hopper"
         },
-        "title": "PistonWerks V4 2000 Arm Boosters: Avali edition",
-        "description": "With piston-powered arms, you can give yourself a nice boost into the air! Just remember to spread your wings once in the air...",
+        "title": "Vandelay productions Armstrong arm: Garbage collection edition",
+        "description": {
+            "text": "The Armstrong Garbage collection robotic enhancement arm allows you to collect Garbage at a range of 32 meters around you! (Please stop messaging us about musical robot powers)"
+        },
         "frame": "challenge",
         "show_toast": false,
         "announce_to_chat": false
